@@ -1,0 +1,10 @@
+{
+  "firstName": "Kakashi",
+  "lastName": "Hatake",
+  "address": "Konoha, 144 apt.",
+  "metroStation": 6,
+  "phone": "+7 800 355 35 38",
+  "rentTime": 4,
+  "deliveryDate": "2023-06-09",
+  "comment": "I'll be late"
+}

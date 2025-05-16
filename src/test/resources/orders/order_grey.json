@@ -1,0 +1,11 @@
+{
+  "firstName": "Sasuke",
+  "lastName": "Uchiha",
+  "address": "Oto, 142 apt.",
+  "metroStation": 3,
+  "phone": "+7 800 355 35 36",
+  "rentTime": 3,
+  "deliveryDate": "2023-06-07",
+  "color": ["GREY"],
+  "comment": "I refuse"
+}
