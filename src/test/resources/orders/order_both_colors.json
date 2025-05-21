@@ -1,0 +1,11 @@
+{
+  "firstName": "Sakura",
+  "lastName": "Haruno",
+  "address": "Konoha, 143 apt.",
+  "metroStation": 5,
+  "phone": "+7 800 355 35 37",
+  "rentTime": 2,
+  "deliveryDate": "2023-06-08",
+  "color": ["BLACK", "GREY"],
+  "comment": "Please stop fighting"
+}
